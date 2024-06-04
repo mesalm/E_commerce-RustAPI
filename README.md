@@ -1,5 +1,5 @@
 # E-commerce RESTful API
-
+> **Note:** This project is still under development and is being actively updated. Some features might not be fully implemented yet.
 This project is a backend API for an E-commerce platform built using Node.js and Express. It allows admins to create, update, and delete products, while users can only read products. Authentication and authorization are handled using JSON Web Token (JWT).
 
 ## Table of Contents
